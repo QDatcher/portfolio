@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b94255ae.css",
+    "main.js": "/static/js/main.6c802968.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/gleap.png": "/static/media/gleap.05d1777f2bc29a8d9b4c.png",
+    "static/media/ryan-hutton-Jztmx9yqjBw-unsplash.jpg": "/static/media/ryan-hutton-Jztmx9yqjBw-unsplash.330e3678868026c3dfe2.jpg",
+    "static/media/nice.jpg": "/static/media/nice.c54a96f5ff5bdadc1a36.jpg",
+    "static/media/react.png": "/static/media/react.6bcffb56bd0efaa47767.png",
+    "static/media/stars.png": "/static/media/stars.d429c85feace317e2f12.png",
+    "static/media/musicForSOul.png": "/static/media/musicForSOul.52b166ffd96344abda85.png",
+    "static/media/weather.png": "/static/media/weather.06683f5b35844e067d8c.png",
+    "static/media/Ecommerce.png": "/static/media/Ecommerce.ab30e5ed7717ee85e68c.png",
+    "static/media/jamsphere.png": "/static/media/jamsphere.755db4f09f64991be34f.png",
+    "static/media/FindMyMusician.png": "/static/media/FindMyMusician.28c7c77533d56cfd4bd4.png",
+    "static/media/ReadMeGen.png": "/static/media/ReadMeGen.1ed7f60b00cfc55fee06.png",
+    "static/media/apollo.jpg": "/static/media/apollo.f70c9ccd89a9a1171056.jpg",
+    "static/media/svg.png": "/static/media/svg.cf17d2a31ce5720ed6b0.png",
+    "static/media/js.jpg": "/static/media/js.962f06fd9db80f9f38ce.jpg",
+    "static/media/qd-logo-q-d-design-white-qd-letter-qd-q-d-letter-logo-design-initial-letter-qd-linked-circle-uppercase-monogram-logo-qd-logo-q-d-197017157.jpg": "/static/media/qd-logo-q-d-design-white-qd-letter-qd-q-d-letter-logo-design-initial-letter-qd-linked-circle-uppercase-monogram-logo-qd-logo-q-d-197017157.28fc9371c8dee573357f.jpg",
+    "static/media/qdLogo.jpg": "/static/media/qdLogo.28fc9371c8dee573357f.jpg",
+    "static/media/css.png": "/static/media/css.02d225c7df0b28341d8d.png",
+    "static/media/express.png": "/static/media/express.409fab39247bb072339d.png",
+    "static/media/html.jpg": "/static/media/html.3edada3610319c559fea.jpg",
+    "index.html": "/index.html",
+    "main.b94255ae.css.map": "/static/css/main.b94255ae.css.map",
+    "main.6c802968.js.map": "/static/js/main.6c802968.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b94255ae.css",
+    "static/js/main.6c802968.js"
+  ]
+}
